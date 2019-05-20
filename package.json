@@ -1,0 +1,16 @@
+{
+  "name": "meetups",
+  "version": "0.1.0",
+  "description": "Meetup app",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
